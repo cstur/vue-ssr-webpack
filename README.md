@@ -431,8 +431,8 @@ someProp: 'foo'
 )
 ```
 
-*
-ssr
+## 小结
+*ssr
 * 对第三放组件更友好(ignoredElements,rework delimiters,Vue.set
 )
 * 性能提升(v-dom,standalone/runtime,unsafeDelimiters deprecated，v-dom)
